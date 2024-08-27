@@ -9,6 +9,7 @@ Nowadays, people are most vulnerable to skin diseases and skin cancers are the m
 We are working on detecting the different types of cancers using CNN architecture and HAM10000 dataset. Trying to achieve a minimum accuracy of 80% 
 
 The team members working on this project are:
-#- Anuragh Barua
-#- Debahuti Chakrabarti
-#- Shoumik Manna
+
+- Anuragh Barua
+- Debahuti Chakrabarti
+- Shoumik Manna
